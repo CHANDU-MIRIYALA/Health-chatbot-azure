@@ -1,0 +1,12 @@
+{
+  "name": "health-chat-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "botbuilder": "^4.19.3",
+    "restify": "^11.0.0"
+  }
+}
